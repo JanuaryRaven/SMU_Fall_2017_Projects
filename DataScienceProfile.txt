@@ -1,0 +1,11 @@
+Computer Programming: 3
+Math: 2
+Statistics: 2
+Machine Learning: 1
+Data Visualization: 3
+Communication and Presentation: 3
+Domain Expertise – Geospatial Data: 5
+Domain Expertise – Maritime: 4
+Domain Expertise - Databases: 4
+
+	I aim to use MSDS6306 as a platform to improve my Computer Programming base. I am presently familiar with a number of different languages at the novice level. I use a few languages, such as Python, regularly, but for pretty specific purposes. So I really hope to solidify my underlying foundational knowledge when it comes to Python and increase my knowledge and understanding of additional languages necessary for statistical analysis of data. My hope for the SMU data science program is to dramatically expand my knowledge and understanding of statistical analysis methods. Presently I use only rudimentary statistical analysis and most of it happens behind the scenes in software packages. I’d like to be able to take the raw data and perform the analysis on my own and fully grasp what all the numbers mean and be able to interpret them for others.
